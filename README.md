@@ -28,6 +28,7 @@
 ```
 ansible-playbook ec2_create.yml --vault-password-file /home/pavan/lab/vault.pass
 ```
+![ANSIBLE-RUN](https://github.com/Pavan-1997/Ansible_AWS/assets/32020205/9bac4259-4dda-4618-8410-2ecccc6bc081)
 
 
 6. Setup Passwordless Authentication
