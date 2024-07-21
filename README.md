@@ -1,4 +1,4 @@
-# Ansible_AWS
+# Ansible_AWS_Ec2
 
 1. Go to AWS Console -> IAM -> Access management - Users -> Create user -> Give name -> Attach Policies - AmazonEC2FullAccess -> Create user
 
